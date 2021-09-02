@@ -1,0 +1,2 @@
+# Actividad1
+HTML BASICO. Elaborar un sitio Web de un tema de importancia en la actualidad como, por ejemplo: Salud, deportes, político, científico, tecnológico, entre otros. Tenga a consideración que los temas no se pueden repetir entre un estudiante u otro de tal manera que los trabajos son individuales y prima tanto lo que investigue como su creatividad. El sitio debe contener varias páginas Web y en cada página involucre las siguientes etiquetas y en cada una incluya los estilos o atributos pertinentes que ponga a prueba su creatividad.
